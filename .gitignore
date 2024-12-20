@@ -1,0 +1,5 @@
+__pycache__
+venv
+.coverage
+cloc-2.00.exe
+src/__pycache__

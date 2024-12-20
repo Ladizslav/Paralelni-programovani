@@ -1,0 +1,1 @@
+{"name": "Joe Pajdal", "defeated_pokemons": 0, "completed_arenas": 0, "account_created": "2024-12-20 23:27:45", "pokemon_team": [{"name": "Charmander", "type": "Fire", "hp": 1, "max_hp": 1, "attack": 1, "speed": 1}]}

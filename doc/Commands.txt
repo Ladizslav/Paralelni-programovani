@@ -1,0 +1,10 @@
+python -m venv venv
+cd ./venv/Scripts
+./pip.exe install coverage
+
+#Pro vyzkoušení coverage
+.\venv\Scripts\python.exe .\venv\Scripts\coverage.exe run .\UnitTests.py
+.\venv\Scripts\python.exe .\venv\Scripts\coverage.exe report .\UnitTests.py
+
+#Pro vyzkoušení cloc
+D:\Downloads\Paralelni-programovani\cloc-2.00.exe .
